@@ -9,6 +9,6 @@ body {
 }
 
 .cabecalho {
-    background-image: url(./assets/banner-ciberseguranca.jpg);
+    background-image: url('./assets/banner-ciberseguranca.jpg'); /* pasta assets n existe */    
     color: white;
 }
