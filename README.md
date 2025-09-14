@@ -7,4 +7,8 @@ Com o aumento da disponibilidade de dados e da dependência dos serviços digita
 A ciência de dados pode ser aplicada de duas maneiras no campo da segurança cibernética: construindo sistemas defensivos para detectar malware e ataques em redes, ou explorando técnicas ofensivas para lançar ataques mais rápidos e sofisticados. Este site foca na primeira abordagem, buscando oferecer soluções e orientações sobre como proteger seus dados e sistemas de maneira eficaz, além de destacar a necessidade de criar sistemas de IA robustos e resistentes a ataques externos.
 BORGES, Ligia F.; NOGUEIRA, Michele. Introdução à Ciência de Dados em Cibersegurança. In: Simpósio Brasileiro de Banco de Dados (SBBD). SBC, 2023. p. 183-188.
 
-pagina 1 de introdução- valdemir líder
+Pagina 1 de introdução - Valdemir líder
+Pagina 2 - Criptografia - Aryanne
+pagina 3 - Tipos de ameaças - 
+pagina 4 - Historias de Hackes - 
+pagina 5 - Principais Conceitos em Segurança da Informação
