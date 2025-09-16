@@ -123,3 +123,66 @@ main {
     border-top: none;
     border-radius: 0px 0px 15px 15px;
 }
+
+article > h2 {
+    font-family: var(--fonteTitulo);
+    font-size: 28pt;
+    padding: 10px;
+    margin: 5px;
+}
+
+article > p {
+    font-size: 18px;
+    line-height: 1.6;
+    max-width: 900px;
+    margin: 0 auto 15px auto; 
+    font-weight: 400;
+    text-align: justify;
+    padding: 10px;
+}
+
+h3 > a {
+    font-size: 20px;
+    font-weight: bold;
+    color: var(--verde100);
+    transition: color 0.3s ease;
+}
+
+h3 > a:hover {
+    color: var(--verde200);
+}
+
+ul {
+    list-style: none; 
+    padding: 10px;        
+    margin: 10px;
+}
+
+ul > li {
+    padding: 5px;
+    margin: 5px;
+}
+
+div.site {
+    background-color: #111;
+    border-radius: 15px;
+
+}
+
+div.site > h2 {
+    padding: 10px 0 ;
+    color: var(--preto200);
+    background-color: var(--verde100);
+    border-radius: 15px 15px 0px 0px;
+}
+
+div.site > h2 {
+    font-family: var(--fonteTitulo);
+    font-size: 22pt;
+    text-align: center;
+}
+
+h3 > a {
+    font-size: 20pt;
+    
+}

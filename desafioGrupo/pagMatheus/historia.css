@@ -57,7 +57,7 @@ header::before {
 
 header h1 {
     font-family: var(--fonteTitulo);
-    font-size: 32pt;
+    font-size: 35pt;
     position: relative;
     z-index: 1;
 }
